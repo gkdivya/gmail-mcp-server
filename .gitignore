@@ -1,0 +1,68 @@
+# Credentials and authentication files
+credentials.json
+token.json
+.env
+*.pem
+*.key
+client_secret*.json
+
+# OAuth tokens
+*token*.json
+*token*.pickle
+oauth*.json
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Virtual Environment
+venv/
+ENV/
+.venv/
+.env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Testing files
+.coverage
+htmlcov/
+
+# Distribution / packaging
+.Python 
