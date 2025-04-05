@@ -172,3 +172,7 @@ This repository does not include credential files. Never commit your:
 - `.env` file with API keys
 
 These files are included in the `.gitignore` file to prevent accidental commits of sensitive information.
+
+
+## Reference
+https://medium.com/@jason.summer/create-a-gmail-agent-with-model-context-protocol-mcp-061059c07777
